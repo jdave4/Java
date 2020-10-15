@@ -6,6 +6,7 @@ public class Numbers {
 
     Scanner myObj = new Scanner(System.in);  
 
-    System.out.println("Enter 5 numbers"); 
+    System.out.println("Enter five numbers" + "(Press Enter after each):") ;
+    
     
 }
